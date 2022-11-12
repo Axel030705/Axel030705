@@ -1,0 +1,3 @@
+- My name is Axel ✋
+- I really love programming 💻❤
+- I am studying to be a software development engineer. 💻📱
